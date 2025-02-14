@@ -1,5 +1,6 @@
 
-# Algoritmo Python : Actualizar un archivo
+# Python Algorythm: Update a File
+# Algoritmo Python: Actualizar un archivo
 
 # Assign `import_file` to the name of the file 
 import_file = "allow_list.txt"
