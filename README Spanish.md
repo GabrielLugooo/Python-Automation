@@ -178,7 +178,9 @@ Luego aplicar función "print()" y asignando la variable de texto podemos imprim
 
 ### Limitaciones
 
-## Python Algorythm Update File it's just for educational purpose under the MIT License.
+Python Algorythm Update File it's just for educational purpose under the MIT License.
+
+---
 
 <h3 align="left">Conecta Conmigo</h3>
 
