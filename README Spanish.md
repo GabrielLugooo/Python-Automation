@@ -2,8 +2,8 @@
 
 # ALGORITMO PYTHON PARA ACTUALIZAR ARCHIVO
 
-<a href="https://github.com/GabrielLugooo/Python-Algorithm-Update-File/blob/main/README%20Spanish.md" target="_blank" rel="noreferrer noopener"> <img align="center" src="https://img.shields.io/badge/Algoritmo%20Python%20Español-000000" alt="Algoritmo Python Español" /></a>
-<a href="https://github.com/GabrielLugooo/Python-Algorithm-Update-File" target="_blank" rel="noreferrer noopener"> <img align="center" src="https://img.shields.io/badge/Algoritmo%20Python%20Inglés-green" alt="Algoritmo Python Inglés" /></a>
+<a href="https://github.com/GabrielLugooo/Python-Automation/blob/main/README%20Spanish.md" target="_blank" rel="noreferrer noopener"> <img align="center" src="https://img.shields.io/badge/Algoritmo%20Python%20Español-000000" alt="Algoritmo Python Español" /></a>
+<a href="https://github.com/GabrielLugooo/Python-Automation/tree/main" target="_blank" rel="noreferrer noopener"> <img align="center" src="https://img.shields.io/badge/Algoritmo%20Python%20Inglés-green" alt="Algoritmo Python Inglés" /></a>
 
 ### Objetivo
 

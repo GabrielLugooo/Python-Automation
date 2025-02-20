@@ -2,8 +2,8 @@
 
 # PYTHON ALGORYTHM UPDATE FILE
 
-<a href="https://github.com/GabrielLugooo/Python-Algorithm-Update-File" target="_blank" rel="noreferrer noopener"> <img align="center" src="https://img.shields.io/badge/Python%20Algorythm%20English-000000" alt="Python Algorythm English" /></a>
-<a href="https://github.com/GabrielLugooo/Python-Algorithm-Update-File/blob/main/README%20Spanish.md" target="_blank" rel="noreferrer noopener"> <img align="center" src="https://img.shields.io/badge/Python%20Algorythm%20Spanish-green" alt="Python Algoryth Spanish" /></a>
+<a href="https://github.com/GabrielLugooo/Python-Automation/tree/main" target="_blank" rel="noreferrer noopener"> <img align="center" src="https://img.shields.io/badge/Python%20Algorythm%20English-000000" alt="Python Algorythm English" /></a>
+<a href="https://github.com/GabrielLugooo/Python-Automation/blob/main/README%20Spanish.md" target="_blank" rel="noreferrer noopener"> <img align="center" src="https://img.shields.io/badge/Python%20Algorythm%20Spanish-green" alt="Python Algoryth Spanish" /></a>
 
 ### Objective
 
