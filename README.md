@@ -27,6 +27,8 @@ After this, use the ".join()" method to convert "ip_addresses" back into a strin
 
 ![Static Badge](https://img.shields.io/badge/Python-000000?logo=python&logoSize=auto)
 
+- Python
+
 ### Project
 
 In many organizations, access to restricted content is controlled by a list of allowed IP addresses. The "allow_list.txt" file identifies these IP addresses.

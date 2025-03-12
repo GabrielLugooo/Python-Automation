@@ -27,6 +27,8 @@ Después de esto, utiliza el método ".join()" para convertir "ip_addresses" nue
 
 ![Static Badge](https://img.shields.io/badge/Python-000000?logo=python&logoSize=auto)
 
+- Python
+
 ### Proyecto
 
 En muchas organizaciones, el acceso a contenido restringido está controlado por una lista de direcciones IP permitidas. El archivo "allow_list.txt" identifica estas direcciones IP.
